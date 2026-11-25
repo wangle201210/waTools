@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=waTools
+Comment=waTools 桌面工具集
+# The Exec line includes %u to pass the URL to the application
+Exec=/usr/local/bin/waTools %u
+Terminal=false
+Type=Application
+Icon=waTools
+Categories=Utility;
+StartupWMClass=waTools

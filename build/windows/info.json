@@ -1,0 +1,17 @@
+{
+	"fixed": {
+		"file_version": "0.1.0",
+		"product_version": "0.1.0"
+	},
+	"info": {
+		"0409": {
+			"FileVersion": "0.1.0",
+			"ProductVersion": "0.1.0",
+			"CompanyName": "wangle201210",
+			"FileDescription": "waTools 桌面工具集",
+			"LegalCopyright": "(c) 2026 wangle201210",
+			"ProductName": "waTools",
+			"Comments": "waTools 桌面工具集"
+		}
+	}
+}
